@@ -4,5 +4,7 @@ public class HelloWorld {
         System.out.printf("Hello World!");
 
         System.out.printf("Locality: Richmond, VA");
+
+        System.out.printf("Locality: Richmond, VA");
     }
 }
